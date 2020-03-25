@@ -1,9 +1,6 @@
 <h1 align="center"><a href="https://github.com/halo-dev" target="_blank">Halo</a></h1>
 
-Halo 是一款现代化的个人独立博客系统，给习惯写博客的同学多一个选择。
-Halo clone下来后，可以导入自己github仓库。以实现代码维护。
-开始学习Halo!
-
+> Halo 是一款现代化的个人独立博客系统，给习惯写博客的同学多一个选择。
 
 <p align="center">
 <a href="https://github.com/halo-dev/halo/releases"><img alt="GitHub release" src="https://img.shields.io/github/release/halo-dev/halo.svg?style=flat-square"/></a>
@@ -20,6 +17,10 @@ Halo clone下来后，可以导入自己github仓库。以实现代码维护。
 **Halo** `[ˈheɪloʊ]`，意为光环。当然，你也可以当成拼音读(哈喽)。
 
 一个优秀的开源博客发布应用，值得一试。
+
+Halo clone下来后，可以导入自己github仓库。以实现代码维护。
+
+开始学习Halo!
 
 > [官网 & 文档](https://halo.run) | [社区](https://bbs.halo.run) | [Telegram 频道](https://t.me/halo_dev)
 
