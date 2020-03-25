@@ -1,6 +1,7 @@
 <h1 align="center"><a href="https://github.com/halo-dev" target="_blank">Halo</a></h1>
 
-> Halo 是一款现代化的个人独立博客系统，给习惯写博客的同学多一个选择。Halo clone下来后，可以导入自己github仓库。以实现代码维护。
+> Halo 是一款现代化的个人独立博客系统，给习惯写博客的同学多一个选择。
+> Halo clone下来后，可以导入自己github仓库。以实现代码维护。
 
 
 <p align="center">
