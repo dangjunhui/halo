@@ -1,6 +1,6 @@
 package run.halo.app.service;
 
-import com.qiniu.common.Zone;
+import com.qiniu.common  .Zone;
 import com.qiniu.storage.Region;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
